@@ -17,5 +17,9 @@
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/94ee9020-7f9c-40de-985e-ae1696fb5daa">
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/ead00cc4-25ae-499e-a3d9-554496fda44d">
 
+- Melakukan Delete (menampilkan respon)
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/e4b6993e-b190-4d22-849e-b9e8c3c38213">
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/e5ff70ef-eaae-4dcd-b2cf-045f804a7eca">
+
 
 
