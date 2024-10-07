@@ -40,7 +40,11 @@ c. DELETE
 
 - Skenario kapan harus menggunakan masing-masing metode dalam aplikasi nyata
 
-a. 
+a. Kita menggunakan metode get disaat kita ingin mengambil refrensi dari website lain, semisal pengambilan atribut dan beberapa komponen atau data lainnya. Akan tetapi hal ini sedikit memiliki efek samping.
+
+b. Sama halnya dengan GET, metode post juga digunakan saat kita ingin mencari refrensi dari server lain. Namun, metode POST ini memiliki efek samping dikarenakan pada metode POST kita melakukan perubahan, sehingga hal tersebut yang nantinya dapat menimbulkan efek samping tersebut.
+
+c. Kita menggunakan metode disaat ingin menghapus beberapa sumber data tertentu yang sudah tidak kita gunakan. Kemudian untuk menghindari adanya dulikasi kita tentunya menggunakan metode DELETE untuk mengatasinya. Lalu untuk alasan keamanan yang tidak sah dari server kita gunakan metode DELETE untuk melakukan penghapusan beberapa data sensitif.
 
 
 
