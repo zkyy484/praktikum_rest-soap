@@ -21,5 +21,18 @@
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/e4b6993e-b190-4d22-849e-b9e8c3c38213">
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/e5ff70ef-eaae-4dcd-b2cf-045f804a7eca">
 
+- Perbedaan GET, POST, dan DELETE
+a. GET
+   Sebuah metode yang biasanya digunakan untuk mengambil data dari server yang kita tuju, sebagai contoh mengambil halaman pada sebuah web, pengambilan beberapa data pada suatu website, dan yang lainnya.
+
+b. POST
+   Sebuah metode yang biasnaya digunakan untuk mengirim suatu data pada server yang dituju, seperti data formulir dan file.
+
+c. DELETE
+   Sebuah metode yang biasanya digunakan untuk menghapus sumber data dari yang server yang diambil. Metoed ini menghapus sumber data secara permanen.
+
+
+- 
+
 
 
