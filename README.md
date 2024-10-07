@@ -13,3 +13,9 @@
 - Melakukan Get (lima data teratas)
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/d2d60b08-bfc9-43cc-b959-eb33e935591b">
 
+- Melakukan Post (menempatkan output pada body)
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/94ee9020-7f9c-40de-985e-ae1696fb5daa">
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/ead00cc4-25ae-499e-a3d9-554496fda44d">
+
+
+
