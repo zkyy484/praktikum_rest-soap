@@ -11,4 +11,5 @@
 
 **TUGAS PRAKTIKUM**
 - Melakukan Get (lima data teratas)
-  <img width="959" alt="image" src="https://github.com/user-attachments/assets/07057c02-50b9-4777-a684-4e739c7875b5">
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/d2d60b08-bfc9-43cc-b959-eb33e935591b">
+
