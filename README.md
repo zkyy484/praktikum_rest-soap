@@ -38,7 +38,9 @@ c. DELETE
    Sebuah metode yang biasanya digunakan untuk menghapus sumber data dari yang server yang diambil. Metoed ini menghapus sumber data secara permanen.
 
 
-- 
+- Skenario kapan harus menggunakan masing-masing metode dalam aplikasi nyata
+
+a. 
 
 
 
