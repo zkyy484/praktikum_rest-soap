@@ -24,12 +24,15 @@
 - Perbedaan GET, POST, dan DELETE
 
 a. GET
+   
    Sebuah metode yang biasanya digunakan untuk mengambil data dari server yang kita tuju, sebagai contoh mengambil halaman pada sebuah web, pengambilan beberapa data pada suatu website, dan yang lainnya.
 
 b. POST
+   
    Sebuah metode yang biasnaya digunakan untuk mengirim suatu data pada server yang dituju, seperti data formulir dan file.
 
 c. DELETE
+   
    Sebuah metode yang biasanya digunakan untuk menghapus sumber data dari yang server yang diambil. Metoed ini menghapus sumber data secara permanen.
 
 
