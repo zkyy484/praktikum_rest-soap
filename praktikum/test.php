@@ -19,7 +19,7 @@ $data = json_decode($response, true);
     <title>Document</title>
 </head>
 <body>
-    <div style="text-align: center;">
+    <div style="text-align: center; background-color: yellow;">
         <h1>BITCOIN PRICE</h1>
     </div>
 
